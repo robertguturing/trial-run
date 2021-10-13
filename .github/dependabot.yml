@@ -8,7 +8,7 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 10
     pull-request-branch-name:
-      separator: "/ch11112"
+      separator: /ch11112
 
   # Maintain dependencies for npm
   - package-ecosystem: "npm"
@@ -17,5 +17,5 @@ updates:
       interval: "daily"
     open-pull-requests-limit: 10
     pull-request-branch-name:
-      separator: "/ch11112"
+      separator: /ch11112
 
